@@ -1,5 +1,7 @@
 # Greeonhouse_System
+
 Greenhouse System Project
+
 This project is designed to monitor and manage the environmental conditions of a greenhouse using the STM32F407VG microcontroller. The sensors used in the system measure various environmental parameters, and based on the data, components like fans, irrigation, and lights are controlled.
 
 LDR (Light Dependent Resistor): Measures the light level, specifically targeting purple light. When the light level is low, the system turns on the lighting.
@@ -13,6 +15,7 @@ Soil Moisture Sensor: Measures soil moisture levels. If the moisture level is to
 These sensors allow the system to continuously monitor environmental conditions. When necessary, the system activates the fan, irrigation, and lighting to maintain optimal greenhouse conditions.
 
 Sera Sistemi Projesi
+
 Bu proje, STM32F407VG mikrodenetleyicisi ile sera koşullarını izleyen ve yöneten bir sistemdir. Sistemde kullanılan sensörler, ortamın çeşitli parametrelerini ölçer ve bu verilere dayalı olarak fan, sulama ve ışık gibi sistem bileşenlerini kontrol eder.
 
 LDR (Işığa Bağımlı Direnç): Işık seviyelerini ölçer, özellikle mor ışığı hedef alır. Işık seviyesi düşük olduğunda, sistem ışıklandırmayı açar.
